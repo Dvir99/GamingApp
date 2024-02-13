@@ -1,0 +1,27 @@
+.dropdown-toggle, .dropdown-item{
+    cursor: pointer;
+}
+
+nav{
+    background: linear-gradient(45deg, purple, rgb(64, 97, 215), rgb(26, 26, 175));
+}
+
+form button{
+    background-color: rgb(100, 159, 199);
+    border: 1px solid rgb(75, 163, 222);
+    transition: 0.5s;
+}
+form button:hover{
+    background-color: rgb(52, 123, 170);
+    border: 1px solid rgb(52, 123, 170);
+}
+
+img{
+    max-height: 50px;
+    border: 2px solid white;
+    display: inline;
+    border-radius: 50%;
+}
+
+
+
